@@ -1,8 +1,8 @@
 # Vue Kanban Board
 
-A simple project to learn about the HTML 5 drag and drop API.
+A simple Kanban Board built with vue 2.x and the HTML 5 drag and drop API.
 
-The link to the article will be published soon.
+To learn more about the drag and drop API, check out this [tutorial](https://blog.logrocket.com/html-5-drag-and-drop-api-a-tutorial/).
 
 ## Project setup
 
